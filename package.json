@@ -1,0 +1,11 @@
+{
+  "name": "gitpod",
+  "version": "1.0.0",
+  "description": "gitpod dev environment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
